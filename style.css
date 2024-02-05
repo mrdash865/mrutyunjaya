@@ -1,0 +1,23 @@
+p{
+color: burlywood;
+text-decoration: double;
+ ;
+
+}
+h1{
+    color: antiquewhite;
+}
+div{
+    color: purple;
+}
+button{
+    color: chocolate;
+    background-color: rgb(2 125, 45);
+}
+table{
+    border-style: solid;
+    box-sizing: content-box;
+    border-block-end-width: 0vmin;
+    border-radius: 0em;
+    border-style: outset;
+}
